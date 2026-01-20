@@ -1,13 +1,53 @@
-# Mac OS
+# Operating System Files
 .DS_Store
-
-# Windows
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
-desktop.ini
+Desktop.ini
 
-# VS Code (Editor)
+# Editor and IDE Files
 .vscode/
-*.code-workspace
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
 
-# Logs
+# Node Modules (if using npm)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Log Files
 *.log
+logs/
+
+# Backup Files
+*.bak
+*.backup
+*.tmp
+
+# Build/Output Files (if using build tools)
+dist/
+build/
+.cache/
+
+# Sensitive Information
+*.key
+*.pem
+credentials.json
+config/secrets/
