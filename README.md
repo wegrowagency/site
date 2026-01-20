@@ -139,7 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Contact
 
 - **Email:** [hello.wegrowagency@gmail.com](mailto:hello.wegrowagency@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/wegrowagency)
 - **Website:** [www.wegrow.com](https://www.wegrow.com)
 
 ---
