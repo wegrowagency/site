@@ -1,15 +1,16 @@
-WEGROW | Sustainable Growth Partner
+# WEGROW | Sustainable Growth Partner
 
 > Your Growth Is Ours. Performance-driven growth partner for eco-friendly brands.
 
 ![WEGROW Logo](images/logo-260w.png)
 
+---
 
-🌱 About
+## 🌱 About
 
 WEGROW is a digital agency that helps eco-friendly and sustainable SMBs scale profitably through ethical, data-backed advertising strategies. We sit at the intersection of Performance Marketing and Ethical Growth.
 
-What We Believe
+**What We Believe:**
 - We don't chase vanity metrics
 - We scale revenue without compromising values
 - We build systems, not short-term hacks
@@ -138,7 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Contact
 
 - **Email:** [hello.wegrowagency@gmail.com](mailto:hello.wegrowagency@gmail.com)
-- **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/wegrowagency)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
 - **Website:** [www.wegrow.com](https://www.wegrow.com)
 
 ---
